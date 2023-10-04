@@ -41,9 +41,9 @@ CREATE TABLE `employees` (
 --
 
 INSERT INTO `employees` (`id`, `full_name`, `email_id`, `password`, `department`, `description`) VALUES
-(2, 'राम', 'kfn@gmail.com', '', 'Hr', 'dzx'),
+(2, 'Taran', 'kfn@gmail.com', '', 'Hr', 'dzx'),
 (3, 'Komal', 'komal@gmail.com', '', 'Sales', 'Hello world'),
-(4, 'राम', 'kfn@gmail.com', '', 'Hr', 'dzx');
+(4, 'Sandeep', 'kfn@gmail.com', '', 'Hr', 'dzx');
 
 --
 -- Indexes for dumped tables
